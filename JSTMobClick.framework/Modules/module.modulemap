@@ -1,0 +1,6 @@
+framework module JSTMobClick {
+  umbrella header "JSTMobClick.h"
+
+  export *
+  module * { export * }
+}
